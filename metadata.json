@@ -1,0 +1,5 @@
+{
+  "name": "Airport CCTV Dashboard",
+  "description": "A sophisticated real-time monitoring dashboard for major airport CCTVs in South Korea, providing quick access to live flight and terminal conditions.",
+  "requestFramePermissions": []
+}
