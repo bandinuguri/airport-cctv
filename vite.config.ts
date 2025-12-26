@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // 리포지토리 이름이 'airport-cctv'인 경우 반드시 이 경로여야 합니다.
-  base: './', 
+  // 중요: 깃허브 주소의 뒷부분인 /airport-cctv/를 정확히 입력해야 합니다.
+  base: '/airport-cctv/', 
   plugins: [react()],
   build: {
     outDir: 'dist',
